@@ -1,0 +1,23 @@
+.blackArrow {
+  padding-right: 40px; /* Adjust this value to add space between the arrow and the text */
+  background-image: url("/public/icons/dropArrow.svg"); /* Customize the arrow icon */
+  background-repeat: no-repeat;
+  background-position: right 8px center; /* Adjust this value to align the arrow properly */
+  appearance: none; /* Remove default arrow */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  /* Add border to the select element */
+  /* Add border-radius for rounded corners */
+}
+
+.grayArrow {
+  padding-right: 0px; /* Adjust this value to add space between the arrow and the text */
+  background-image: url("/public/icons/grayDropDownArrow.svg"); /* Customize the arrow icon */
+  background-repeat: no-repeat;
+  background-position: right 15px center; /* Adjust this value to align the arrow properly */
+  appearance: none; /* Remove default arrow */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  /* Add border to the select element */
+  /* Add border-radius for rounded corners */
+}
