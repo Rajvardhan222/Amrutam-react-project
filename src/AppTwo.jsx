@@ -9,6 +9,7 @@ function AppTwo() {
   return (
     <>
       <main>
+        {/* second page of amrutam assignment */}
         <div className="flex flex-col pb-10 ">
           <Navigation />
           <SearchDoctor/>
