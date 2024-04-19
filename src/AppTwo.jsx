@@ -3,7 +3,7 @@ import Navigation from "./components/Navigation";
 
 import SearchDoctor from "./components/SearchDoctor";
 import FilterOptions from "./components/FilterOptions";
-import DoctorCard from "./components/DoctorCard";
+import DoctorCard from "./components/DoctorCards";
 
 function AppTwo() {
   return (
