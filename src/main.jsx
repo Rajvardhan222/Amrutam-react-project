@@ -6,6 +6,6 @@ import AppTwo from './AppTwo.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <AppTwo />
+    <AppTwo/>
   </React.StrictMode>,
 )

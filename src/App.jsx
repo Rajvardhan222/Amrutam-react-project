@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navigation from "./components/Navigation";
+import Navigation from "./components/Navigation/Navigation";
 import Profile from "./components/Profile";
 import AboutMeCard from "./components/AboutMeCard";
 import SpecialiseCard from "./components/SpecialiseCard";

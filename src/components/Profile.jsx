@@ -62,7 +62,7 @@ function Profile() {
             </div>
             {/* Appointment button */}
             <div className="flex justify-center items-center ">
-               <Button className="px-24 rounded-md font-semibold text-lg py-3 bg-darkGreen text-white">
+               <Button className="px-24 rounded-md font-semibold text-lg py-3 bg-darkGreen text-white ">
                 
                Book an Appointment
                </Button>

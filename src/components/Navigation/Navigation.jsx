@@ -1,6 +1,6 @@
 import React from "react";
-import navigationItem from "../data/navigationItem";
-import Button from "./Button";
+import navigationItem from "../../data/navigationItem";
+import Button from "../Button";
 
 function Navigation() {
   return (

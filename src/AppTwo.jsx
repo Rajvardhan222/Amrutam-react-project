@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Navigation from "./components/Navigation";
+import Navigation from "./components/Navigation/Navigation";
 
-import SearchDoctor from "./components/SearchDoctor";
+import SearchDoctor from "./components/SearchDoctor/SearchDoctor";
 import FilterOptions from "./components/FilterOptions";
 import DoctorCard from "./components/DoctorCards";
 
